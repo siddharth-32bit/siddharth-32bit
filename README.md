@@ -1,16 +1,15 @@
-## Hi there 👋
+# Siddharth Kshatriya
 
-<!--
-**siddharth-32bit/siddharth-32bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded Systems • Firmware • IoT
 
-Here are some ideas to get you started:
+## Tech Stack
+- C
+- Embedded C
+- ESP32
+- Arduino
+- Basic IoT Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- FreeRTOS
+- Communication Protocols
+- Driver Development
