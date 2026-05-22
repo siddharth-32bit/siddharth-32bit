@@ -1,34 +1,37 @@
-# Hi there, I'm Siddharth Kshatriya 👋
+# Siddharth Kshatriya
 
-### Embedded Systems • Firmware • IoT Engineer
-An Enthusiastic Electronics and Communication Engineering student passionate about low-level programming, real-time systems, and bridging the gap between hardware and software.
-
----
-
-## 🛠️ Tech Stack
-
-| Category | Skills / Tools |
-| :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) |
-| **Microcontrollers** | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) |
-| **Concepts & OS** | `Embedded C` `Basic IoT Systems` |
-
-## 📚 Currently Learning & Exploring
-* **RTOS:** Diving deep into **FreeRTOS** (Task management, queues, semaphores).
-* **Protocols:** Mastering **UART, I2C, SPI**, and CAN bus.
-* **Low-Level:** Bare-metal **Driver Development** and register-level programming.
+**Embedded Firmware Engineer** 
 
 ---
 
-## 📊 GitHub Stats
+![C](https://img.shields.io/badge/Language-C%20%2F%20Embedded%20C-blue?style=flat-square)
+![FreeRTOS](https://img.shields.io/badge/RTOS-FreeRTOS-green?style=flat-square)
+![ESP32](https://img.shields.io/badge/Hardware-ESP32%20%7C%20MSP430-orange?style=flat-square)
+![Protocols](https://img.shields.io/badge/Protocols-UART%20%7C%20I2C%20%7C%20SPI-red?style=flat-square)
 
-🎛️ **My Development Activity**
-![](https://github-readme-stats.vercel.app/api?username=siddharth-32bit&show_icons=true&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-32bit&layout=compact&theme=dark&hide_border=true)
+Electronics and Communication Engineering student focused on firmware development and real-time embedded systems. Hands-on experience in microcontroller-based concurrency, sensor-interfacing, and low-power hardware deployments.
 
 ---
 
-## 🤝 Connect with Me
+### 🛠️ Technical Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharthkshatriya08)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddharthkshatriya08@gmail.com)
+* **Programming:** C, Embedded C
+* **Microcontrollers & Platforms:** ESP32, MSP430, Arduino
+* **Protocols:** UART, I2C, SPI
+* **Embedded Concepts:** FreeRTOS, GPIO, Interrupts, Timers, Counters
+* **Tools & Hardware:** Git, VS Code, Arduino IDE, Hardware Debugging
+
+---
+
+### 🎯 Current Focus & Learning
+
+* 🌐 Network Protocols: **MQTT**
+* ⏱️ Deep Dive: Advanced **FreeRTOS** implementations
+* ⚙️ Hardware Expansion: **STM32** development
+
+---
+
+### 📬 Connect with Me
+
+* [LinkedIn](https://linkedin.com/in/siddharthkshatriya08)
+* [Email](mailto:siddharthkshatriya08@gmail.com)
