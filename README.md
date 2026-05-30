@@ -19,7 +19,7 @@ Electronics and Communication Engineering student focused on firmware developmen
 * **Programming:** C, Embedded C, C++, Embedded C++
 * **Microcontrollers & Platforms:** ESP32, MSP430, Arduino
 * **Protocols:** UART, I2C, SPI
-* **Embedded Concepts:** FreeRTOS, GPIO, Interrupts, Timers, Counters
+* **Embedded Concepts:** FreeRTOS, Interrupts, Timers, Counters
 * **Tools & Hardware:** Git, VS Code, Arduino IDE, Hardware Debugging
 
 ---
