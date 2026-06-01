@@ -32,6 +32,14 @@ Electronics and Communication Engineering student focused on firmware developmen
 
 ---
 
+### 🚀 Current Project
+
+#### Smart Asthma Kit
+
+Working on a IoT-based wearable respiratory monitoring system using multiple ESP32 for real-time asthma assistance and health tracking.
+  
+---
+
 ### 📬 Connect with Me
 
 * [LinkedIn](https://linkedin.com/in/siddharthkshatriya08)
