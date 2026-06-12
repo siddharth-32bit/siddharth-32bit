@@ -16,7 +16,7 @@ Electronics and Communication Engineering student focused on firmware developmen
 
 ### 🛠️ Technical Skills
 
-* **Programming:** C, Embedded C, C++, Embedded C++
+* **Programming:** C, Embedded C
 * **Microcontrollers & Platforms:** ESP32, MSP430, Arduino
 * **Protocols:** UART, I2C, SPI
 * **Embedded Concepts:** FreeRTOS, Interrupts, Timers, Counters
