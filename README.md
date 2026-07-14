@@ -26,7 +26,6 @@ Electronics and Communication Engineering student focused on firmware developmen
 
 ### 🎯 Current Focus & Learning
 
-* 🌐 Network Protocols: **MQTT**
 * ⏱️ Deep Dive: Advanced **FreeRTOS** implementations
 * ⚙️ Hardware Expansion: **STM32** development
 
