@@ -5,7 +5,6 @@
 ---
 
 ![C](https://img.shields.io/badge/Language-C%20%2F%20Embedded%20C-blue?style=flat-square)
-![C++ / Embedded C++](https://img.shields.io/badge/C%2B%2B%20%2F%20Embedded%20C%2B%2B-blueviolet?style=flat-square)
 ![FreeRTOS](https://img.shields.io/badge/RTOS-FreeRTOS-green?style=flat-square)
 ![ESP32](https://img.shields.io/badge/Hardware-ESP32%20%7C%20Arudino-orange?style=flat-square)
 ![Protocols](https://img.shields.io/badge/Protocols-UART%20%7C%20I2C%20%7C%20SPI-red?style=flat-square)
@@ -16,7 +15,7 @@ Electronics and Communication Engineering student focused on firmware developmen
 
 ### 🛠️ Technical Skills
 
-* **Programming:** C, Embedded C
+* **Programming:** C, C++
 * **Microcontrollers & Platforms:** ESP32, MSP430, Arduino
 * **Protocols:** UART, I2C, SPI
 * **Embedded Concepts:** FreeRTOS, Interrupts, Timers, Counters
@@ -26,7 +25,7 @@ Electronics and Communication Engineering student focused on firmware developmen
 
 ### 🎯 Current Focus & Learning
 
-* ⏱️ Deep Dive: Advanced **FreeRTOS** implementations
+* ⏱️ Deep Dive: Advanced **RTOS** implementations
 * ⚙️ Hardware Expansion: **STM32** development
 
 ---
